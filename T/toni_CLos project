@@ -1,2 +1,6 @@
 print("We are awesome")
-print("What is your favorite food")
+
+
+apple = input("What is your favorite food?\n")
+
+print("apple")
